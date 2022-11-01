@@ -1,0 +1,10 @@
+body {
+	background: lightblue;
+}
+
+.salmon {
+	position: absolute;
+	width: 300px;
+	height: auto;
+	transition: 500ms;
+}
